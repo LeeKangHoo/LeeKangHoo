@@ -1,4 +1,7 @@
+<p align="center">
 ## Nine9
+
+
 **Information Security**, **Develop**, **Computer Science**
 
 
@@ -15,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+</p>
