@@ -1,7 +1,12 @@
 # Nine9
 
 ### Interested in
-**🛡️Information Security**, **💻Develop**, **📟Computer Science**,
+**🛡️Information Security**, **💻Develop**, **📟Computer Science**
+
+## Studying
+**Web Hacking,**
+**Network Security,**
+**Reversing**
 
 ## Tools i use
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
@@ -11,11 +16,6 @@
 ## Languages i use
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-
-## Studying
-**Web Hacking,**
-**Network Security,**
-**Reversing**
 
 ## 🧑‍🎓
 **Kangnam Univ(software major)** [ 2021 ~ Now ]
