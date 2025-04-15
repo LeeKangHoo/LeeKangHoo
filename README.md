@@ -1,13 +1,12 @@
+<h1 align="center">Nine9</h1>
+
 <p align="center">
-## Nine9
+  <strong>Information Security</strong> · <strong>Development</strong> · <strong>Computer Science</strong>
+</p>
 
+---
 
-**Information Security**, **Develop**, **Computer Science**
-
-
-
-
-Here are some ideas to get you started:
+### 🧠 About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,8 +14,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-</p>
