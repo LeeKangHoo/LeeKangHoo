@@ -27,3 +27,9 @@
 **White Hat School 1st** [ 2023 ~ 2024 ]
 
 **S-Dev 3st** [ 2025 ~ Now ]
+
+## etc
+<a href="https://velog.io/@protection0828/posts">
+<img src="https://img.shields.io/badge/velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white">
+</a>
+<img src="https://img.shields.io/badge/protection0828@gmail.com-76BB21?style=for-the-badge&logo=mailbox.org&logoColor=white">
