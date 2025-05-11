@@ -9,8 +9,12 @@
 **Reversing**
 
 ## Tools i use
-<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
+<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
+<br>
 <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
 
 ## Languages i use
