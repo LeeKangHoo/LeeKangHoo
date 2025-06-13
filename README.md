@@ -6,7 +6,6 @@
 ## Studying
 **Web Hacking,**
 **Network Security,**
-**Reversing**
 
 ## Tools i use
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3">
