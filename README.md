@@ -21,11 +21,11 @@
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 ## 🧑‍🎓
-**Kangnam Univ(software major)** [ 2021 ~ Now ]
+**Kangnam Univ(software major)** [ 2021 ~ 2026 ]
 
 **White Hat School 1st** [ 2023 ~ 2024 ]
 
-**S-Dev 3st** [ 2025 ~ Now ]
+**S-Dev 3st** [ 2025 ~ 2025.12.5 ]
 
 ## etc
 <a href="https://velog.io/@protection0828/posts">
